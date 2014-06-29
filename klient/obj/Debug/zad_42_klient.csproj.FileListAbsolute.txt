@@ -1,0 +1,9 @@
+c:\users\johnny\documents\visual studio 2012\Projects\zad_42_klient\zad_42_klient\bin\Debug\zad_42_klient.exe.config
+c:\users\johnny\documents\visual studio 2012\Projects\zad_42_klient\zad_42_klient\bin\Debug\zad_42_klient.exe
+c:\users\johnny\documents\visual studio 2012\Projects\zad_42_klient\zad_42_klient\bin\Debug\zad_42_klient.pdb
+c:\users\johnny\documents\visual studio 2012\Projects\zad_42_klient\zad_42_klient\obj\Debug\zad_42_klient.Form1.resources
+c:\users\johnny\documents\visual studio 2012\Projects\zad_42_klient\zad_42_klient\obj\Debug\zad_42_klient.Properties.Resources.resources
+c:\users\johnny\documents\visual studio 2012\Projects\zad_42_klient\zad_42_klient\obj\Debug\zad_42_klient.csproj.GenerateResource.Cache
+c:\users\johnny\documents\visual studio 2012\Projects\zad_42_klient\zad_42_klient\obj\Debug\zad_42_klient.exe
+c:\users\johnny\documents\visual studio 2012\Projects\zad_42_klient\zad_42_klient\obj\Debug\zad_42_klient.pdb
+C:\Users\Johnny\documents\visual studio 2012\Projects\zad_42_klient\zad_42_klient\obj\Debug\zad_42_klient.csprojResolveAssemblyReference.cache
