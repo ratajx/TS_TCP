@@ -1,0 +1,9 @@
+c:\users\johnny\documents\visual studio 2012\Projects\TS_42_serwer\TS_42_serwer\bin\Debug\TS_42_serwer.exe.config
+c:\users\johnny\documents\visual studio 2012\Projects\TS_42_serwer\TS_42_serwer\bin\Debug\TS_42_serwer.exe
+c:\users\johnny\documents\visual studio 2012\Projects\TS_42_serwer\TS_42_serwer\bin\Debug\TS_42_serwer.pdb
+c:\users\johnny\documents\visual studio 2012\Projects\TS_42_serwer\TS_42_serwer\obj\Debug\TS_42_serwer.csprojResolveAssemblyReference.cache
+c:\users\johnny\documents\visual studio 2012\Projects\TS_42_serwer\TS_42_serwer\obj\Debug\TS_42_serwer.Form1.resources
+c:\users\johnny\documents\visual studio 2012\Projects\TS_42_serwer\TS_42_serwer\obj\Debug\TS_42_serwer.Properties.Resources.resources
+c:\users\johnny\documents\visual studio 2012\Projects\TS_42_serwer\TS_42_serwer\obj\Debug\TS_42_serwer.csproj.GenerateResource.Cache
+c:\users\johnny\documents\visual studio 2012\Projects\TS_42_serwer\TS_42_serwer\obj\Debug\TS_42_serwer.exe
+c:\users\johnny\documents\visual studio 2012\Projects\TS_42_serwer\TS_42_serwer\obj\Debug\TS_42_serwer.pdb
